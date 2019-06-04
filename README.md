@@ -1,9 +1,3 @@
-AdversarialAttack-FineFool
-
-FineFool: Fine Object Contour Attack via Attention
-
-An adversarial attack method combined with attention mechanism.
-
 ##########environment###############
 CUDA: 9.0
 python: 3.6
