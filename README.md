@@ -23,18 +23,20 @@ predict the imagenet images on the resnet50
     https://github.com/fchollet/deep-learning-models/releases/download/v0.2/resnet50_weights_th_dim_ordering_th_kernels.h5 <br>
 python keras_imagenet.py --data=imagenet --model=model/resnet50_weights_tf_dim_ordering_tf_kernels.h5 <br>
 
-#predict the imagenet images on the InceptionResnetV2 <br>
+predict the imagenet images on the InceptionResnetV2
+---------------------
 .h5 file download link: <br>
     https://github.com/fchollet/deep-learning-models/releases/download/v0.7/inception_resnet_v2_weights_tf_dim_ordering_tf_kernels.h5 <br>
 python keras_imagenet.py --data=imagenet --model=model/inception_resnet_v2_weights_tf_dim_ordering_tf_kernels.h5 <br>
 
-############################# <br>
-#predict the adversarial images on the resnet50 <br>
+predict the adversarial images on the resnet50
+---------------------
 .h5 file download link: <br>
     https://github.com/fchollet/deep-learning-models/releases/download/v0.2/resnet50_weights_th_dim_ordering_th_kernels.h5 <br>
 python keras_imagenet.py --data=adversarials --model=model/resnet50_weights_tf_dim_ordering_tf_kernels.h5 <br>
 
-#predict the adversarial images on the InceptionResnetV2 <br>
+predict the adversarial images on the InceptionResnetV2
+---------------------
 .h5 file download link: <br>
     https://github.com/fchollet/deep-learning-models/releases/download/v0.7/inception_resnet_v2_weights_tf_dim_ordering_tf_kernels.h5 <br>
 python keras_imagenet.py --data=adversarials --model=model/inception_resnet_v2_weights_tf_dim_ordering_tf_kernels.h5 <br>
