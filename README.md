@@ -1,4 +1,5 @@
-# AdversarialAttack-FineFool
+AdversarialAttack-FineFool
+
 FineFool: Fine Object Contour Attack via Attention
 
 An adversarial attack method combined with attention mechanism.
@@ -11,13 +12,9 @@ tensorflow-gpu: 1.10.0
 numpy: 1.14.5
 
 ##########directory###############
-
 imagenet images in the imagenet directory
-
 adversarial images in the adversarials directory
-
 .h5 file  in the model directory
-
 #############################
 #predict the imagenet images on the resnet50
 .h5 file download link:
